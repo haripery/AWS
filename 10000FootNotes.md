@@ -1,5 +1,3 @@
-# AWS
-
 ## AWS CERTIFIED DEVELOPER Intro Notes
 
 ## 10000 Foot Overview:
@@ -76,18 +74,38 @@ Migration:
 1. Step Functions - Visualizing app, See Microservices usage
 2. SWF
 3. API Gateway - useful for Angular apps
-4. App Stream  - 
+4. App Stream
+5. Elastic Transcoder
 
+### Developer Tools
+1. Code Commit - Git kind
+2. Code Build - Compiling Code
+3. Code Deploy - EC2 Instances
+4. Code Pipeline
 
+### Mobile Services
+1. Mobile Hub - Configure userAuth, push notifications, own consoleetc
+2. Cognito - sign in Apps, IOS in AWS, like OAuth 2.0
+3. Device Farm - Testing apps on Physical Devices
+4. Mobile Analytics
+5. Pin Point - like Google Analytics
 
+### Business Productivity
+1. WorkDocs
+2. WorkMail
 
+### IOT
 
+### Desktop and App streaming
+1. WorkSpaces
+2. AppStream 2.0
 
+### AI
+1. Polly
+2. Machine Learning - Give data to learn 
+3. Rekognition - image recognition software
 
-
-
-
-
-
-
-
+### Messaging
+1. SNS - Email, Text Message, https endpoints
+2. SQS - Decoupling Applications, Queue services - image uploads queues.
+3. SES - Simple Email Services
