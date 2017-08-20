@@ -1,5 +1,3 @@
-## AWS CERTIFIED DEVELOPER Intro Notes
-
 ## 10000 Foot Overview:
 Topics need to concentrated:
 1. AWS Global Infrastructure
